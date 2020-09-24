@@ -1,3 +1,4 @@
 const { parseFile } = require('./functions/scrapDrinks.js');
+const { runAll } = require('./functions/runAll.js');
 
-parseFile('goldilocks', '0920.txt', 'db0xdca6322c618f', '2020-09-19');
+runAll();

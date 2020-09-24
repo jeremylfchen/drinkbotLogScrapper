@@ -5,8 +5,8 @@ const { calculateVolume, formatEntry, formatIngredient } = require('./helpers.js
 
 
 exports.parseFile = (folderName, fileName, serial_num, date = false) => {
-  let calibration = require(path.resolve(__dirname, `../drinkbotDATA/${folderName}/drinkbot_calibration_parameters.json`));
-  let pumpAssignments = require(path.resolve(__dirname, `../drinkbotDATA/${folderName}/drinkbot_user_settings.json`)).pump_to_ingredient;
+  let calibration = require(path.resolve(__dirname, `../drinkbotData/${folderName}/drinkbot_calibration_parameters.json`));
+  let pumpAssignments = require(path.resolve(__dirname, `../drinkbotData/${folderName}/drinkbot_user_settings.json`)).pump_to_ingredient;
   let ingredientSkus = require(path.resolve(__dirname, `../drinkbotData/${folderName}/drinkbot_liquid_storage.json`));
   let drinkSkus = require(path.resolve(__dirname, `../drinkbotData/${folderName}/drinkbot_recipe.json`));
 
@@ -23,7 +23,7 @@ exports.parseFile = (folderName, fileName, serial_num, date = false) => {
     let dateFilter = date ? true : false;
     if (line.slice(0, 10) === date || !dateFilter) {
       if (line.slice(37, 42) === 'order') {
-        entry = JSON.parse(line.slice(46, line.length - 1));
+        entry = JSON.parse(line.slice(46, line.length - 1).replace(/'/g, '\"'));
         entry.timestamp = line.slice(0, 19).split(' ').join('T') + '.000000-07:00';
         formatEntry(entry, folderName, serial_num, drinkSkus);
       } else if (line.includes('Start Serving')) {
@@ -65,7 +65,7 @@ exports.parseFile = (folderName, fileName, serial_num, date = false) => {
       if (!fs.existsSync(path.resolve(__dirname, `../output/${folderName}`))) {
         fs.mkdirSync(path.resolve(__dirname, `../output/${folderName}`));
       }
-      fs.appendFile(path.resolve(__dirname, `../output/${folderName}/${fileName}-output.json`),
+      fs.writeFile(path.resolve(__dirname, `../output/${folderName}/${fileName}-output.json`),
         JSON.stringify({ data }, null, 2),
         (err) => {
           if (err) {
