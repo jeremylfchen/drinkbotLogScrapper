@@ -1,0 +1,30 @@
+{
+    "favorite_drink": [],
+    "flow_unit": "oz",
+    "language": "English",
+    "operating_hours": [
+        "08:00",
+        "20:00"
+    ],
+    "pump_to_ingredient": {
+        "pump_01": "water-010",
+        "pump_02": "jasmine tea-005",
+        "pump_03": "black tea concentrate-034",
+        "pump_04": "oat milk-999",
+        "pump_05": "passion fruit-026",
+        "pump_06": "lychee syrup-026",
+        "pump_07": "mango-026",
+        "pump_08": "medium roast-020",
+        "pump_09": "red guava-033",
+        "pump_10": "kumquat-026",
+        "pump_11": "cane sugar-002",
+        "pump_12": "sparkling water-010"
+    },
+    "serving_mode": "auto",
+    "serving_size": [
+        285,
+        355
+    ],
+    "timezone": "Asia/Taipei",
+    "volume": "oz"
+}

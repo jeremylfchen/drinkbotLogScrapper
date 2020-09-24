@@ -1,0 +1,4016 @@
+{
+    "CS Oat Milk Mango": {
+        "name": "CS Oat Milk Mango",
+        "customize_name": "Creamy Mango",
+        "ingredient": {
+            "100": {
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.12078651685393259,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "oat milk-999": {
+                    "sku": "86-0500-OATM-CRM-999-C-1",
+                    "name": "Oat Milk",
+                    "reusable_container": false,
+                    "ratio": 0.6123595505617978,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 500,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.26685393258426965,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                100,
+                "regular",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Cs_Oatm_Mngo-2",
+        "drink_type": "Creamy",
+        "drink_type_array": [
+            "Creamy"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Cs_Oatm_Mngo-2.png",
+        "photo": "drinks/98-Cs_Oatm_Mngo-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "86-0500-OATM-CRM-999-C-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "CS Oat Milk Green Black Tea": {
+        "name": "CS Oat Milk Green Black Tea",
+        "customize_name": "Classic Milk Tea (Black)",
+        "ingredient": {
+            "100": {
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.11320754716981132,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "black tea concentrate-034": {
+                    "sku": "88-0500-BTEA-TEA-034-A-1",
+                    "name": "Black Tea Concentrate",
+                    "reusable_container": false,
+                    "ratio": 0.18867924528301888,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 180,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "oat milk-999": {
+                    "sku": "86-0500-OATM-CRM-999-C-1",
+                    "name": "Oat Milk",
+                    "reusable_container": false,
+                    "ratio": 0.6679245283018868,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 500,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.03018867924528302,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Cs_Oatm_Green_Btea-2",
+        "drink_type": "Milk Tea",
+        "drink_type_array": [
+            "Milk Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.85
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Cs_Oatm_Green_Btea-2.png",
+        "photo": "drinks/98-Cs_Oatm_Green_Btea-2.png",
+        "ingredient_list": [
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-BTEA-TEA-034-A-1"
+            ],
+            [
+                "86-0500-OATM-CRM-999-C-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "CS Oat Milk Green Tea": {
+        "name": "CS Oat Milk Green Tea",
+        "customize_name": "Classic Milk Tea (Green)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.07803468208092486,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.08670520231213873,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.0953757225433526,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "oat milk-999": {
+                    "sku": "86-0500-OATM-CRM-999-C-1",
+                    "name": "Oat Milk",
+                    "reusable_container": false,
+                    "ratio": 0.7398843930635838,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 500,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Cs_Oatm_Gtea-2",
+        "drink_type": "Milk Tea",
+        "drink_type_array": [
+            "Milk Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Cs_Oatm_Gtea-2.png",
+        "photo": "drinks/98-Cs_Oatm_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "86-0500-OATM-CRM-999-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Green Black Tea": {
+        "name": "Green Black Tea",
+        "customize_name": "Iced Tea (Black)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8753315649867374,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.07161803713527852,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "black tea concentrate-034": {
+                    "sku": "88-0500-BTEA-TEA-034-A-1",
+                    "name": "Black Tea Concentrate",
+                    "reusable_container": false,
+                    "ratio": 0.03713527851458886,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 180,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.015915119363395226,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Green_Btea-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.25
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.15
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Green_Btea-2.png",
+        "photo": "drinks/98-Green_Btea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-BTEA-TEA-034-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Green Tea": {
+        "name": "Green Tea",
+        "customize_name": "Iced Tea (Green)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7971830985915493,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.08450704225352113,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.11830985915492957,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.9
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.7
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Gtea-2.png",
+        "photo": "drinks/98-Gtea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Kumquat Black Tea": {
+        "name": "Kumquat Black Tea",
+        "customize_name": "Calamansi Iced Tea (Black)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7837837837837838,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.03088803088803089,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "kumquat-026": {
+                    "sku": "88-0300-KUMQ-SYP-026-A-1",
+                    "name": "Kumquat",
+                    "reusable_container": false,
+                    "ratio": 0.0694980694980695,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "black tea concentrate-034": {
+                    "sku": "88-0500-BTEA-TEA-034-A-1",
+                    "name": "Black Tea Concentrate",
+                    "reusable_container": false,
+                    "ratio": 0.11583011583011583,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 180,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Kumq_Btea-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.8
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.6
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Kumq_Btea-2.png",
+        "photo": "drinks/98-Kumq_Btea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0150-KUMQ-SYP-026-A-1",
+                "88-0300-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-2"
+            ],
+            [
+                "88-0500-BTEA-TEA-034-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Kumquat Green Tea": {
+        "name": "Kumquat Green Tea",
+        "customize_name": "Calamansi Iced Tea (Green)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8419243986254296,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.03436426116838488,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "kumquat-026": {
+                    "sku": "88-0300-KUMQ-SYP-026-A-1",
+                    "name": "Kumquat",
+                    "reusable_container": false,
+                    "ratio": 0.07216494845360824,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.05154639175257732,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Kumq_Gtea-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Kumq_Gtea-2.png",
+        "photo": "drinks/98-Kumq_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0150-KUMQ-SYP-026-A-1",
+                "88-0300-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-2"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Kumquat Juice": {
+        "name": "Kumquat Juice",
+        "customize_name": "Calamansi Juice",
+        "ingredient": {
+            "100": {
+                "kumquat-026": {
+                    "sku": "88-0300-KUMQ-SYP-026-A-1",
+                    "name": "Kumquat",
+                    "reusable_container": false,
+                    "ratio": 0.07909604519774012,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.9067796610169492,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.014124293785310734,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Kumq_Juice-2",
+        "drink_type": "Non-caffeinated",
+        "drink_type_array": [
+            "Non-caffeinated"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.85
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Kumq_Juice-2.png",
+        "photo": "drinks/98-Kumq_Juice-2.png",
+        "ingredient_list": [
+            [
+                "88-0150-KUMQ-SYP-026-A-1",
+                "88-0300-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-2"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Kumquat Mango Green Black Tea": {
+        "name": "Kumquat Mango Green Black Tea",
+        "customize_name": "Calamansi Mango Iced Tea (Black)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7867036011080333,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "kumquat-026": {
+                    "sku": "88-0300-KUMQ-SYP-026-A-1",
+                    "name": "Kumquat",
+                    "reusable_container": false,
+                    "ratio": 0.0332409972299169,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.0664819944598338,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "black tea concentrate-034": {
+                    "sku": "88-0500-BTEA-TEA-034-A-1",
+                    "name": "Black Tea Concentrate",
+                    "reusable_container": false,
+                    "ratio": 0.055401662049861494,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 180,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.0443213296398892,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.013850415512465374,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Kumq_Mngo_Green_Btea-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 0
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 0
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Kumq_Mngo_Green_Btea-2.png",
+        "photo": "drinks/98-Kumq_Mngo_Green_Btea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-KUMQ-SYP-026-A-1",
+                "88-0300-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-2"
+            ],
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "88-0500-BTEA-TEA-034-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Kumquat Mango Green Tea": {
+        "name": "Kumquat Mango Green Tea",
+        "customize_name": "Calamansi Mango Iced Tea (Green)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.834733893557423,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "kumquat-026": {
+                    "sku": "88-0300-KUMQ-SYP-026-A-1",
+                    "name": "Kumquat",
+                    "reusable_container": false,
+                    "ratio": 0.025210084033613446,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.0700280112044818,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.056022408963585436,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.014005602240896359,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Kumq_Mngo_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Kumq_Mngo_Gtea-2.png",
+        "photo": "drinks/98-Kumq_Mngo_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-KUMQ-SYP-026-A-1",
+                "88-0300-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-2"
+            ],
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Kumquat Mango Juice": {
+        "name": "Kumquat Mango Juice",
+        "customize_name": "Calamansi Mango Juice",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8595505617977528,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.028089887640449437,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "kumquat-026": {
+                    "sku": "88-0300-KUMQ-SYP-026-A-1",
+                    "name": "Kumquat",
+                    "reusable_container": false,
+                    "ratio": 0.05056179775280899,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.06179775280898876,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Kumq_Mngo_Juice-2",
+        "drink_type": "Non-caffeinated",
+        "drink_type_array": [
+            "Non-caffeinated"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.85
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Kumq_Mngo_Juice-2.png",
+        "photo": "drinks/98-Kumq_Mngo_Juice-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0150-KUMQ-SYP-026-A-1",
+                "88-0300-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-1",
+                "89-0000-KUMQ-SYP-026-A-2"
+            ],
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Lychee Green Tea": {
+        "name": "Lychee Green Tea",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "lychee syrup-026": {
+                    "sku": "88-0300-LYCH-SYP-026-A-1",
+                    "name": "Lychee Syrup",
+                    "reusable_container": false,
+                    "ratio": 0.12777777777777777,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.013888888888888888,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.06666666666666667,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7916666666666666,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Lych_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Lych_Gtea-2.png",
+        "photo": "drinks/98-Lych_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-LYCH-SYP-026-A-1",
+                "89-0000-LYCH-SYP-026-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Lychee Juice": {
+        "name": "Lychee Juice",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8823529411764706,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "lychee syrup-026": {
+                    "sku": "88-0300-LYCH-SYP-026-A-1",
+                    "name": "Lychee Syrup",
+                    "reusable_container": false,
+                    "ratio": 0.09090909090909091,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.026737967914438502,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Lych_Juice-2",
+        "drink_type": "Non-caffeinated",
+        "drink_type_array": [
+            "Non-caffeinated"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.85
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Lych_Juice-2.png",
+        "photo": "drinks/98-Lych_Juice-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0300-LYCH-SYP-026-A-1",
+                "89-0000-LYCH-SYP-026-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Lychee Passion Juice": {
+        "name": "Lychee Passion Juice",
+        "customize_name": "Tropical Juice",
+        "ingredient": {
+            "100": {
+                "passion fruit-026": {
+                    "sku": "88-0300-PSSN-SYP-026-A-1",
+                    "name": "Passion Fruit",
+                    "reusable_container": false,
+                    "ratio": 0.07738095238095238,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8035714285714286,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "lychee syrup-026": {
+                    "sku": "88-0300-LYCH-SYP-026-A-1",
+                    "name": "Lychee Syrup",
+                    "reusable_container": false,
+                    "ratio": 0.10119047619047619,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.017857142857142856,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Lych_Passion_Juice-2",
+        "drink_type": "Non-caffeinated",
+        "drink_type_array": [
+            "Non-caffeinated"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 0.85
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Lych_Passion_Juice-2.png",
+        "photo": "drinks/98-Lych_Passion_Juice-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-2",
+                "89-0000-PSSN-SYP-026-A-3"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0300-LYCH-SYP-026-A-1",
+                "89-0000-LYCH-SYP-026-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Mango Green Black Tea": {
+        "name": "Mango Green Black Tea",
+        "customize_name": "Mango Iced Tea (Black)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.850828729281768,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.06906077348066299,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "black tea concentrate-034": {
+                    "sku": "88-0500-BTEA-TEA-034-A-1",
+                    "name": "Black Tea Concentrate",
+                    "reusable_container": false,
+                    "ratio": 0.049723756906077346,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 180,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.016574585635359115,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.013812154696132596,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Mngo_Green_Btea-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.6
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.4
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Mngo_Green_Btea-2.png",
+        "photo": "drinks/98-Mngo_Green_Btea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "88-0500-BTEA-TEA-034-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Mango Green Tea": {
+        "name": "Mango Green Tea",
+        "customize_name": "Mango Iced Tea (Green)",
+        "ingredient": {
+            "100": {
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.12813370473537605,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.013927576601671309,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.06685236768802229,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7910863509749304,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Mngo_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Mngo_Gtea-2.png",
+        "photo": "drinks/98-Mngo_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Mango Juice": {
+        "name": "Mango Juice",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8876404494382022,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.028089887640449437,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.08426966292134831,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Mngo_Juice-2",
+        "drink_type": "Non-caffeinated",
+        "drink_type_array": [
+            "Non-caffeinated"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.85
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Mngo_Juice-2.png",
+        "photo": "drinks/98-Mngo_Juice-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Passion Fruit Green Tea": {
+        "name": "Passion Fruit Green Tea",
+        "customize_name": "Passion Fruit Iced Tea (Green)",
+        "ingredient": {
+            "100": {
+                "passion fruit-026": {
+                    "sku": "88-0300-PSSN-SYP-026-A-1",
+                    "name": "Passion Fruit",
+                    "reusable_container": false,
+                    "ratio": 0.14864864864864866,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.06486486486486487,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.772972972972973,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.013513513513513514,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Pssn_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Pssn_Gtea-2.png",
+        "photo": "drinks/98-Pssn_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-2",
+                "89-0000-PSSN-SYP-026-A-3"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Passion Fruit Iced Tea": {
+        "name": "Passion Fruit Iced Tea",
+        "customize_name": "Passion Fruit Iced Tea (Black)",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8455056179775281,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "passion fruit-026": {
+                    "sku": "88-0300-PSSN-SYP-026-A-1",
+                    "name": "Passion Fruit",
+                    "reusable_container": false,
+                    "ratio": 0.08146067415730338,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.014044943820224719,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "black tea concentrate-034": {
+                    "sku": "88-0500-BTEA-TEA-034-A-1",
+                    "name": "Black Tea Concentrate",
+                    "reusable_container": false,
+                    "ratio": 0.05898876404494382,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 180,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Pssn_Itea-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.6
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.4
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Pssn_Itea-2.png",
+        "photo": "drinks/98-Pssn_Itea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0300-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-2",
+                "89-0000-PSSN-SYP-026-A-3"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-BTEA-TEA-034-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Passion Fruit Juice": {
+        "name": "Passion Fruit Juice",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8791946308724832,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "passion fruit-026": {
+                    "sku": "88-0300-PSSN-SYP-026-A-1",
+                    "name": "Passion Fruit",
+                    "reusable_container": false,
+                    "ratio": 0.087248322147651,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.03355704697986577,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Pssn_Juice-2",
+        "drink_type": "Non-caffeinated",
+        "drink_type_array": [
+            "Non-caffeinated"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.85
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Pssn_Juice-2.png",
+        "photo": "drinks/98-Pssn_Juice-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0300-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-2",
+                "89-0000-PSSN-SYP-026-A-3"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Red Guava Juice": {
+        "name": "Red Guava Juice",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "red guava-033": {
+                    "sku": "88-0300-RGUA-SYP-033-A-1",
+                    "name": "red guava",
+                    "reusable_container": false,
+                    "ratio": 0.2,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 3
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                100,
+                "regular",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Rgua_Juice-2",
+        "drink_type": "Non-caffeinated",
+        "drink_type_array": [
+            "Non-caffeinated"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.85
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Rgua_Juice-2.png",
+        "photo": "drinks/98-Rgua_Juice-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0300-RGUA-SYP-033-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Starbucks Coffee Cs Oat Milk Green Black Tea": {
+        "name": "Starbucks Coffee Cs Oat Milk Green Black Tea",
+        "customize_name": "Starbucks Iced Coffee Milk Tea",
+        "ingredient": {
+            "100": {
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.09900990099009901,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "black tea concentrate-034": {
+                    "sku": "88-0500-BTEA-TEA-034-A-1",
+                    "name": "Black Tea Concentrate",
+                    "reusable_container": false,
+                    "ratio": 0.19801980198019803,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 180,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.026402640264026403,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "medium roast-020": {
+                    "sku": "88-0500-MRCO-COF-020-C-1",
+                    "name": "medium roast",
+                    "reusable_container": false,
+                    "ratio": 0.297029702970297,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 7,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "oat milk-999": {
+                    "sku": "86-0500-OATM-CRM-999-C-1",
+                    "name": "Oat Milk",
+                    "reusable_container": false,
+                    "ratio": 0.3795379537953795,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 500,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Starbucks_Cffe_Cs_Oatm_Green_Btea-2",
+        "drink_type": "Iced Coffee",
+        "drink_type_array": [
+            "Iced Coffee"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 0,
+                "invoice_price": 2.2
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Starbucks_Cffe_Cs_Oatm_Green_Btea-2.png",
+        "photo": "drinks/98-Starbucks_Cffe_Cs_Oatm_Green_Btea-2.png",
+        "ingredient_list": [
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-BTEA-TEA-034-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "88-0500-MRCO-COF-020-C-1"
+            ],
+            [
+                "86-0500-OATM-CRM-999-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Starbucks Cs Oat Milk Iced Latte": {
+        "name": "Starbucks Cs Oat Milk Iced Latte",
+        "customize_name": "Starbucks Oat Milk Iced Latte",
+        "ingredient": {
+            "100": {
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.08450704225352113,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "medium roast-020": {
+                    "sku": "88-0500-MRCO-COF-020-C-1",
+                    "name": "medium roast",
+                    "reusable_container": false,
+                    "ratio": 0.5211267605633803,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 7,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "oat milk-999": {
+                    "sku": "86-0500-OATM-CRM-999-C-1",
+                    "name": "Oat Milk",
+                    "reusable_container": false,
+                    "ratio": 0.39436619718309857,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 500,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Starbucks_Cs_Oatm_Iced_Ltte-2",
+        "drink_type": "Iced Coffee",
+        "drink_type_array": [
+            "Iced Coffee"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 0,
+                "invoice_price": 2.25
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Starbucks_Cs_Oatm_Iced_Ltte-2.png",
+        "photo": "drinks/98-Starbucks_Cs_Oatm_Iced_Ltte-2.png",
+        "ingredient_list": [
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-MRCO-COF-020-C-1"
+            ],
+            [
+                "86-0500-OATM-CRM-999-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Starbucks Iced Coffee": {
+        "name": "Starbucks Iced Coffee",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.05982905982905983,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "medium roast-020": {
+                    "sku": "88-0500-MRCO-COF-020-C-1",
+                    "name": "medium roast",
+                    "reusable_container": false,
+                    "ratio": 0.9401709401709402,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 7,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Starbucks_Icof-2",
+        "drink_type": "Iced Coffee",
+        "drink_type_array": [
+            "Iced Coffee"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 0,
+                "invoice_price": 2.35
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Starbucks_Icof-2.png",
+        "photo": "drinks/98-Starbucks_Icof-2.png",
+        "ingredient_list": [
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-MRCO-COF-020-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Red Guava Iced Tea Black": {
+        "name": "Red Guava Iced Tea Black",
+        "customize_name": "Red Guava Iced Tea (Black)",
+        "ingredient": {
+            "100": {
+                "red guava-033": {
+                    "sku": "88-0300-RGUA-SYP-033-A-1",
+                    "name": "red guava",
+                    "reusable_container": false,
+                    "ratio": 0.10857142857142857,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.014285714285714285,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "black tea concentrate-034": {
+                    "sku": "88-0500-BTEA-TEA-034-A-1",
+                    "name": "Black Tea Concentrate",
+                    "reusable_container": false,
+                    "ratio": 0.05142857142857143,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 180,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8257142857142857,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Rgua_Itea_Black-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.65
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.5
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Rgua_Itea_Black-2.png",
+        "photo": "drinks/98-Rgua_Itea_Black-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-RGUA-SYP-033-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-BTEA-TEA-034-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Red Guava Iced Tea Green": {
+        "name": "Red Guava Iced Tea Green",
+        "customize_name": "Red Guava Iced Tea (Green)",
+        "ingredient": {
+            "100": {
+                "red guava-033": {
+                    "sku": "88-0300-RGUA-SYP-033-A-1",
+                    "name": "red guava",
+                    "reusable_container": false,
+                    "ratio": 0.11965811965811966,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.05698005698005698,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.06552706552706553,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7578347578347578,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Rgua_Itea_Green-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Rgua_Itea_Green-2.png",
+        "photo": "drinks/98-Rgua_Itea_Green-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-RGUA-SYP-033-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Lychee Mango Passion Green Tea": {
+        "name": "Lychee Mango Passion Green Tea",
+        "customize_name": "Tropical Iced Green Tea",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7703703703703704,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "passion fruit-026": {
+                    "sku": "88-0300-PSSN-SYP-026-A-1",
+                    "name": "Passion Fruit",
+                    "reusable_container": false,
+                    "ratio": 0.037037037037037035,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.014814814814814815,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "lychee syrup-026": {
+                    "sku": "88-0300-LYCH-SYP-026-A-1",
+                    "name": "Lychee Syrup",
+                    "reusable_container": false,
+                    "ratio": 0.05925925925925926,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.044444444444444446,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.07407407407407407,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Lych_Mngo_Passion_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 414,
+        "available_size": [
+            473,
+            414
+        ],
+        "available_cup_size": [
+            {
+                "size": 473,
+                "name": "473",
+                "MSRP": 0,
+                "invoice_price": 1.95
+            },
+            {
+                "size": 414,
+                "name": "414",
+                "MSRP": 0,
+                "invoice_price": 1.75
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Lych_Mngo_Passion_Gtea-2.png",
+        "photo": "drinks/98-Lych_Mngo_Passion_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0300-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-2",
+                "89-0000-PSSN-SYP-026-A-3"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0300-LYCH-SYP-026-A-1",
+                "89-0000-LYCH-SYP-026-A-1"
+            ],
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    }
+}

@@ -1,20 +1,19 @@
 {
-  "name": "drinkbotLogScrapper",
+  "name": "parser",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jeremylfchen/drinkbotLogScrapper.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrap": "node index.js",
+    "getTime": "node getTime.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jeremylfchen/drinkbotLogScrapper/issues"
-  },
-  "homepage": "https://github.com/jeremylfchen/drinkbotLogScrapper#readme"
+  "dependencies": {
+    "node": "^14.11.0",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
 }
