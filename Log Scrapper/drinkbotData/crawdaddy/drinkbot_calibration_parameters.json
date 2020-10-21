@@ -1,0 +1,62 @@
+{
+    "flowmeter_01": {
+        "ratio": 0.1,
+        "read_value": 800,
+        "real_value": 80
+    },
+    "flowmeter_02": {
+        "ratio": 0.11,
+        "read_value": 800,
+        "real_value": 88
+    },
+    "flowmeter_03": {
+        "ratio": 0.475,
+        "read_value": 200,
+        "real_value": 95
+    },
+    "flowmeter_04": {
+        "ratio": 0.43333333333333335,
+        "read_value": 200,
+        "real_value": 86
+    },
+    "flowmeter_05": {
+        "ratio": 0.4666666666666667,
+        "read_value": 150,
+        "real_value": 70
+    },
+    "flowmeter_06": {
+        "ratio": 0.125,
+        "read_value": 200,
+        "real_value": 25
+    },
+    "flowmeter_07": {
+        "ratio": 0.25,
+        "read_value": 200,
+        "real_value": 50
+    },
+    "flowmeter_08": {
+        "ratio": 0.3333333333333333,
+        "read_value": 150,
+        "real_value": 50
+    },
+    "flowmeter_09": {
+        "ratio": 0.25333333333333335,
+        "read_value": 200,
+        "real_value": 50
+    },
+    "flowmeter_10": {
+        "ratio": 0.2,
+        "read_value": 200,
+        "real_value": 40
+    },
+    "flowmeter_11": {
+        "ratio": 0.4,
+        "read_value": 150,
+        "real_value": 60
+    },
+    "flowmeter_12": {
+        "ratio": 1.0,
+        "read_value": 500,
+        "real_value": 500
+    }
+}

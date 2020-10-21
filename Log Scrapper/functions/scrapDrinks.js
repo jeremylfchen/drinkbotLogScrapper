@@ -23,7 +23,9 @@ exports.parseFile = (folderName, fileName, serial_num, date = false) => {
     let dateFilter = date ? true : false;
     if (line.slice(0, 10) === date || !dateFilter) {
       if (line.slice(37, 42) === 'order') {
-        entry = JSON.parse(line.slice(46, line.length - 1).replace(/'/g, '\"'));
+        let str = line.slice(46, line.length - 1).replace(/'/g, '\"');
+        // console.log(str);
+        entry = JSON.parse(str);
         entry.timestamp = line.slice(0, 19).split(' ').join('T') + '.000000-07:00';
         formatEntry(entry, folderName, serial_num, drinkSkus);
       } else if (line.includes('Start Serving')) {
@@ -77,4 +79,6 @@ exports.parseFile = (folderName, fileName, serial_num, date = false) => {
     });
 
 }
+
+let a = {'drink_name': 'Hibiscus Lemonade', 'customize_level': 100, 'cup_size': 355, 'abv': 0, 'image_url': 'https://botrista-image.s3.amazonaws.com/drinks/98-Hibi_Lemn-2.png', 'q_level': {'level': 100, 'name': 'regular'}, 'q_size': {'size': 355, 'name': '355', 'MSRP': 4, 'invoice_price': 1.5, 'nutrition_fact': {'calories': {'value': 81.65000000000002, 'daily': 'None'}, 'total_fat_g': {'value': 0, 'daily': 0}, 'sarutrated_fat_g': {'value': 0, 'daily': 0}, 'trans_fat_g': {'value': 0, 'daily': 'None'}, 'cholesterol_mg': {'value': 0, 'daily': 0}, 'sodium_mg': {'value': 11.5375, 'daily': 0.005016304347826087}, 'total_carbohydrate_g': {'value': 20.412500000000005, 'daily': 0.07422727272727274}, 'dietary_fiber_g': {'value': 0, 'daily': 0}, 'total_sugars_g': {'value': 19.88, 'daily': 'None'}, 'includes_g_added_sugars': {'value': 19.17, 'daily': 0.3834}, 'protein_g': {'value': 0, 'daily': 'None'}, 'vitamin_d_mcg': {'value': 0, 'daily': 0}, 'calcium_mg': {'value': 4.615, 'daily': 0.00355}, 'iron_mg': {'value': 8.9389, 'daily': 0.4966055555555556}, 'potassium_mg': {'value': 14.200000000000001, 'daily': 0.0030212765957446813}}}, 'customize_name': '', 'order_id': 1}
 

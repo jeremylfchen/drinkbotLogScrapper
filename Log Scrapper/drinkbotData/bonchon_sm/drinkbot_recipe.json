@@ -1,0 +1,2896 @@
+{
+    "Red Guava Lemonade": {
+        "name": "Red Guava Lemonade",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "red guava-033": {
+                    "sku": "88-0300-RGUA-SYP-033-A-1",
+                    "name": "red guava",
+                    "reusable_container": false,
+                    "ratio": 0.1046831955922865,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "lemon-026": {
+                    "sku": "88-0500-LEMN-SYP-026-A-2",
+                    "name": "Lemon",
+                    "reusable_container": false,
+                    "ratio": 0.013774104683195593,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.049586776859504134,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8319559228650137,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Red_Guava_Lemn-2",
+        "drink_type": "Lemonade",
+        "drink_type_array": [
+            "Lemonade"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 4.25,
+                "invoice_price": 1.5,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 90.45400000000001
+                    },
+                    "total_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 8.6975,
+                        "daily": 0.0037815217391304347
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 22.613500000000002,
+                        "daily": 0.0822309090909091
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 20.4125,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 20.306,
+                        "daily": 0.40612000000000004
+                    },
+                    "protein_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 1.7750000000000001,
+                        "daily": 0.09861111111111112
+                    },
+                    "potassium_mg": {
+                        "value": 35.5,
+                        "daily": 0.007553191489361702
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Red_Guava_Lemn-2.png",
+        "photo": "drinks/98-Red_Guava_Lemn-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-RGUA-SYP-033-A-1"
+            ],
+            [
+                "88-0300-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-2",
+                "89-0000-LEMN-SYP-026-A-1",
+                "89-0000-LEMN-SYP-026-A-2"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Red Guava Iced Tea Green": {
+        "name": "Red Guava Iced Tea Green",
+        "customize_name": "Red Guava Iced Green Tea",
+        "ingredient": {
+            "100": {
+                "red guava-033": {
+                    "sku": "88-0300-RGUA-SYP-033-A-1",
+                    "name": "red guava",
+                    "reusable_container": false,
+                    "ratio": 0.11965811965811966,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.05698005698005698,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.06552706552706553,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7578347578347578,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Rgua_Itea_Green-2",
+        "drink_type": "Iced Tea",
+        "drink_type_array": [
+            "Iced Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 4.25,
+                "invoice_price": 1.65,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 102.9074,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0.19880000000000003,
+                        "daily": 0.002548717948717949
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 16.898,
+                        "daily": 0.00734695652173913
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 25.031049999999997,
+                        "daily": 0.09102199999999999
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 22.3508,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 22.3508,
+                        "daily": 0.44701599999999997
+                    },
+                    "protein_g": {
+                        "value": 0.24850000000000003,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "potassium_mg": {
+                        "value": 42.6,
+                        "daily": 0.009063829787234043
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Rgua_Itea_Green-2.png",
+        "photo": "drinks/98-Rgua_Itea_Green-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-RGUA-SYP-033-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Pomegranate Lemonade": {
+        "name": "Pomegranate Lemonade",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8676056338028169,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.022535211267605635,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "lemon-026": {
+                    "sku": "88-0500-LEMN-SYP-026-A-2",
+                    "name": "Lemon",
+                    "reusable_container": false,
+                    "ratio": 0.05070422535211268,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "pomegranate-033": {
+                    "sku": "88-0300-PMGT-SYP-033-A-1",
+                    "name": "Pomegranate",
+                    "reusable_container": false,
+                    "ratio": 0.059154929577464786,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 200,
+                    "barcode": "",
+                    "bib_size_l": 3
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Pomegranate_Lemn-2",
+        "drink_type": "Lemonade",
+        "drink_type_array": [
+            "Lemonade"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 4,
+                "invoice_price": 1.5,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 89.886,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 6.4255,
+                        "daily": 0.002793695652173913
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 22.4715,
+                        "daily": 0.08171454545454546
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0.213,
+                        "daily": 0.007607142857142857
+                    },
+                    "total_sugars_g": {
+                        "value": 21.4775,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 20.87684,
+                        "daily": 0.41753680000000004
+                    },
+                    "protein_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 8.875,
+                        "daily": 0.4930555555555556
+                    },
+                    "potassium_mg": {
+                        "value": 28.755000000000003,
+                        "daily": 0.006118085106382979
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Pomegranate_Lemn-2.png",
+        "photo": "drinks/98-Pomegranate_Lemn-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0300-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-2",
+                "89-0000-LEMN-SYP-026-A-1",
+                "89-0000-LEMN-SYP-026-A-2"
+            ],
+            [
+                "88-0300-PMGT-SYP-033-A-1",
+                "89-0000-PMGT-SYP-033-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Pomegranate Green Tea": {
+        "name": "Pomegranate Green Tea",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "pomegranate-033": {
+                    "sku": "88-0300-PMGT-SYP-033-A-1",
+                    "name": "Pomegranate",
+                    "reusable_container": false,
+                    "ratio": 0.11560693641618497,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 540,
+                    "pulse_setting": 200,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.057803468208092484,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.028901734104046242,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7976878612716763,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Pmgt_Green_Tea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 4,
+                "invoice_price": 1.65,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 102.3252,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0.1704,
+                        "daily": 0.0021846153846153847
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 7.241999999999999,
+                        "daily": 0.0031486956521739125
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 24.9849,
+                        "daily": 0.09085418181818182
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0.426,
+                        "daily": 0.015214285714285713
+                    },
+                    "total_sugars_g": {
+                        "value": 23.6004,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 23.464079999999996,
+                        "daily": 0.4692815999999999
+                    },
+                    "protein_g": {
+                        "value": 0.213,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "potassium_mg": {
+                        "value": 57.510000000000005,
+                        "daily": 0.012236170212765959
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Pmgt_Green_Tea-2.png",
+        "photo": "drinks/98-Pmgt_Green_Tea-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-PMGT-SYP-033-A-1",
+                "89-0000-PMGT-SYP-033-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Peach Green Tea Lemonade": {
+        "name": "Peach Green Tea Lemonade",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.04788732394366197,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "lemon-026": {
+                    "sku": "88-0500-LEMN-SYP-026-A-2",
+                    "name": "Lemon",
+                    "reusable_container": false,
+                    "ratio": 0.03380281690140845,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "peach-001": {
+                    "sku": "88-0300-PEAC-SYP-001-C-1",
+                    "name": "peach",
+                    "reusable_container": false,
+                    "ratio": 0.10985915492957747,
+                    "storage_method": "fridge",
+                    "shelf_life_days": 540,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7943661971830986,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.014084507042253521,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Peac_Gtea_Lemn-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 4,
+                "invoice_price": 1.65,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 27.193,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0.14200000000000002,
+                        "daily": 0.0018205128205128207
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 9.4075,
+                        "daily": 0.0040902173913043485
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 6.3012500000000005,
+                        "daily": 0.022913636363636365
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 5.9995,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 5.68,
+                        "daily": 0.11359999999999999
+                    },
+                    "protein_g": {
+                        "value": 0.1775,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 5.325,
+                        "daily": 0.29583333333333334
+                    },
+                    "potassium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Peac_Gtea_Lemn-2.png",
+        "photo": "drinks/98-Peac_Gtea_Lemn-2.png",
+        "ingredient_list": [
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "88-0300-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-2",
+                "89-0000-LEMN-SYP-026-A-1",
+                "89-0000-LEMN-SYP-026-A-2"
+            ],
+            [
+                "88-0300-PEAC-SYP-001-C-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Passion Fruit Lemonade": {
+        "name": "Passion Fruit Lemonade",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "lemon-026": {
+                    "sku": "88-0300-LEMN-SYP-026-A-1",
+                    "name": "Lemon",
+                    "reusable_container": false,
+                    "ratio": 0.030985915492957747,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "passion fruit-026": {
+                    "sku": "88-0300-PSSN-SYP-026-A-1",
+                    "name": "Passion Fruit",
+                    "reusable_container": false,
+                    "ratio": 0.07887323943661972,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8901408450704226,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                100,
+                "regular",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Pssn_Lemn-2",
+        "drink_type": "Lemonade",
+        "drink_type_array": [
+            "Lemonade"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 0,
+                "invoice_price": 0,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 98.12200000000001,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 25.027499999999996,
+                        "daily": 0.010881521739130434
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 24.530500000000004,
+                        "daily": 0.0892018181818182
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 24.033500000000004,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 21.158,
+                        "daily": 0.42316000000000004
+                    },
+                    "protein_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 5.325,
+                        "daily": 0.29583333333333334
+                    },
+                    "potassium_mg": {
+                        "value": 15.620000000000001,
+                        "daily": 0.0033234042553191494
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Pssn_Lemn-2.png",
+        "photo": "drinks/98-Pssn_Lemn-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-2",
+                "89-0000-LEMN-SYP-026-A-1",
+                "89-0000-LEMN-SYP-026-A-2"
+            ],
+            [
+                "88-0300-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-2",
+                "89-0000-PSSN-SYP-026-A-3"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Passion Fruit Green Tea": {
+        "name": "Passion Fruit Green Tea",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "passion fruit-026": {
+                    "sku": "88-0300-PSSN-SYP-026-A-1",
+                    "name": "Passion Fruit",
+                    "reusable_container": false,
+                    "ratio": 0.14864864864864866,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.06486486486486487,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.772972972972973,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.013513513513513514,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Pssn_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 0,
+                "invoice_price": 0,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 141.94320000000002,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0.1704,
+                        "daily": 0.0021846153846153847
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 46.7535,
+                        "daily": 0.020327608695652175
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 34.8894,
+                        "daily": 0.12687054545454546
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 34.2504,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 29.4579,
+                        "daily": 0.589158
+                    },
+                    "protein_g": {
+                        "value": 0.213,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "potassium_mg": {
+                        "value": 29.2875,
+                        "daily": 0.006231382978723404
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Pssn_Gtea-2.png",
+        "photo": "drinks/98-Pssn_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-1",
+                "89-0000-PSSN-SYP-026-A-2",
+                "89-0000-PSSN-SYP-026-A-3"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Mango Green Tea": {
+        "name": "Mango Green Tea",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.12813370473537605,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.013927576601671309,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.06685236768802229,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7910863509749304,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Mngo_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 3.75,
+                "invoice_price": 1.5,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 111.14339999999999,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0.19880000000000003,
+                        "daily": 0.002548717948717949
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 30.104000000000006,
+                        "daily": 0.013088695652173916
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 27.090049999999994,
+                        "daily": 0.09850927272727271
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 26.5043,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 26.5043,
+                        "daily": 0.5300860000000001
+                    },
+                    "protein_g": {
+                        "value": 0.24850000000000003,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "potassium_mg": {
+                        "value": 34.612500000000004,
+                        "daily": 0.0073643617021276605
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Mngo_Gtea-2.png",
+        "photo": "drinks/98-Mngo_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Lychee Mango Peach Green Tea": {
+        "name": "Lychee Mango Peach Green Tea",
+        "customize_name": "Fruity Peach Green Tea",
+        "ingredient": {
+            "100": {
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.01971830985915493,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.03943661971830986,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.05070422535211268,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "peach-001": {
+                    "sku": "88-0300-PEAC-SYP-001-C-1",
+                    "name": "peach",
+                    "reusable_container": false,
+                    "ratio": 0.01971830985915493,
+                    "storage_method": "fridge",
+                    "shelf_life_days": 540,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "lychee syrup-026": {
+                    "sku": "88-0300-LYCH-SYP-026-A-1",
+                    "name": "Lychee Syrup",
+                    "reusable_container": false,
+                    "ratio": 0.05352112676056338,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8169014084507042,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Lych_Mngo_Peac_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 3.75,
+                "invoice_price": 1.5,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 84.68880000000001,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0.1136,
+                        "daily": 0.0014564102564102565
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 26.3765,
+                        "daily": 0.011468043478260869
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 20.774600000000003,
+                        "daily": 0.07554400000000001
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 20.3486,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 19.1061,
+                        "daily": 0.382122
+                    },
+                    "protein_g": {
+                        "value": 0.14200000000000002,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "potassium_mg": {
+                        "value": 23.962500000000002,
+                        "daily": 0.0050984042553191495
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Lych_Mngo_Peac_Gtea-2.png",
+        "photo": "drinks/98-Lych_Mngo_Peac_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "88-0300-PEAC-SYP-001-C-1"
+            ],
+            [
+                "88-0300-LYCH-SYP-026-A-1",
+                "89-0000-LYCH-SYP-026-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Lychee Mango Lemonade": {
+        "name": "Lychee Mango Lemonade",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "lemon-026": {
+                    "sku": "88-0500-LEMN-SYP-026-A-2",
+                    "name": "Lemon",
+                    "reusable_container": false,
+                    "ratio": 0.031073446327683617,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "mango-026": {
+                    "sku": "88-0300-MNGO-SYP-026-A-1",
+                    "name": "Mango",
+                    "reusable_container": false,
+                    "ratio": 0.0423728813559322,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "lychee syrup-026": {
+                    "sku": "88-0300-LYCH-SYP-026-A-1",
+                    "name": "Lychee Syrup",
+                    "reusable_container": false,
+                    "ratio": 0.05649717514124294,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8700564971751412,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                100,
+                "regular",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Lych_Mngo_Lemn-2",
+        "drink_type": "Lemonade",
+        "drink_type_array": [
+            "Lemonade"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 3.75,
+                "invoice_price": 1.5,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 106.642,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 26.518499999999996,
+                        "daily": 0.01152978260869565
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 26.6605,
+                        "daily": 0.09694727272727273
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 26.092500000000005,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 24.282,
+                        "daily": 0.48564
+                    },
+                    "protein_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 5.325,
+                        "daily": 0.29583333333333334
+                    },
+                    "potassium_mg": {
+                        "value": 23.43,
+                        "daily": 0.004985106382978723
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Lych_Mngo_Lemn-2.png",
+        "photo": "drinks/98-Lych_Mngo_Lemn-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-2",
+                "89-0000-LEMN-SYP-026-A-1",
+                "89-0000-LEMN-SYP-026-A-2"
+            ],
+            [
+                "88-0300-MNGO-SYP-026-A-1",
+                "88-0800-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-1",
+                "89-0000-MNGO-SYP-026-A-2"
+            ],
+            [
+                "88-0300-LYCH-SYP-026-A-1",
+                "89-0000-LYCH-SYP-026-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Lychee Green Tea": {
+        "name": "Lychee Green Tea",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "lychee syrup-026": {
+                    "sku": "88-0300-LYCH-SYP-026-A-1",
+                    "name": "Lychee Syrup",
+                    "reusable_container": false,
+                    "ratio": 0.12777777777777777,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.013888888888888888,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.06666666666666667,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7916666666666666,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Lych_Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 3.75,
+                "invoice_price": 1.5,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 111.14339999999999,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0.19880000000000003,
+                        "daily": 0.002548717948717949
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 42.5645,
+                        "daily": 0.01850630434782609
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 27.090049999999994,
+                        "daily": 0.09850927272727271
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 26.5043,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 23.2738,
+                        "daily": 0.465476
+                    },
+                    "protein_g": {
+                        "value": 0.24850000000000003,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "potassium_mg": {
+                        "value": 27.690000000000005,
+                        "daily": 0.005891489361702129
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Lych_Gtea-2.png",
+        "photo": "drinks/98-Lych_Gtea-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-LYCH-SYP-026-A-1",
+                "89-0000-LYCH-SYP-026-A-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Lemonade": {
+        "name": "Lemonade",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "lemon-026": {
+                    "sku": "88-0500-LEMN-SYP-026-A-2",
+                    "name": "Lemon",
+                    "reusable_container": false,
+                    "ratio": 0.08042895442359249,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.05361930294906166,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8659517426273459,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Lemn-2",
+        "drink_type": "Lemonade",
+        "drink_type_array": [
+            "Lemonade"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 3.5,
+                "invoice_price": 1.25,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 64.752,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 9.940000000000001,
+                        "daily": 0.004321739130434783
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 16.188,
+                        "daily": 0.05886545454545454
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 15.620000000000001,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 14.767999999999999,
+                        "daily": 0.29535999999999996
+                    },
+                    "protein_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 14.200000000000001,
+                        "daily": 0.788888888888889
+                    },
+                    "potassium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Lemn-2.png",
+        "photo": "drinks/98-Lemn-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-2",
+                "89-0000-LEMN-SYP-026-A-1",
+                "89-0000-LEMN-SYP-026-A-2"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Hibiscus Lemonade": {
+        "name": "Hibiscus Lemonade",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "lemon-026": {
+                    "sku": "88-0500-LEMN-SYP-026-A-2",
+                    "name": "Lemon",
+                    "reusable_container": false,
+                    "ratio": 0.05056179775280899,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 5
+                },
+                "hibiscus-026": {
+                    "sku": "88-0300-HIBI-SYP-026-A-1",
+                    "name": "hibiscus",
+                    "reusable_container": false,
+                    "ratio": 0.05337078651685393,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 100,
+                    "barcode": "",
+                    "bib_size_l": 3
+                },
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.8735955056179775,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.02247191011235955,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Hibi_Lemn-2",
+        "drink_type": "Lemonade",
+        "drink_type_array": [
+            "Lemonade"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 4,
+                "invoice_price": 1.5,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 81.65000000000002,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 11.5375,
+                        "daily": 0.005016304347826087
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 20.412500000000005,
+                        "daily": 0.07422727272727274
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 19.88,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 19.17,
+                        "daily": 0.3834
+                    },
+                    "protein_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 4.615,
+                        "daily": 0.00355
+                    },
+                    "iron_mg": {
+                        "value": 8.9389,
+                        "daily": 0.4966055555555556
+                    },
+                    "potassium_mg": {
+                        "value": 14.200000000000001,
+                        "daily": 0.0030212765957446813
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Hibi_Lemn-2.png",
+        "photo": "drinks/98-Hibi_Lemn-2.png",
+        "ingredient_list": [
+            [
+                "88-0300-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-1",
+                "88-0500-LEMN-SYP-026-A-2",
+                "89-0000-LEMN-SYP-026-A-1",
+                "89-0000-LEMN-SYP-026-A-2"
+            ],
+            [
+                "88-0300-HIBI-SYP-026-A-1",
+                "89-0000-HIBI-SYP-026-A-1"
+            ],
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    },
+    "Green Tea": {
+        "name": "Green Tea",
+        "customize_name": "",
+        "ingredient": {
+            "100": {
+                "water-010": {
+                    "sku": "85-9999-WATR-FIL-010-C-1",
+                    "name": "Water",
+                    "reusable_container": false,
+                    "ratio": 0.7971830985915493,
+                    "storage_method": "either",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 0,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 9999
+                },
+                "cane sugar-002": {
+                    "sku": "88-0150-CANE-SWE-002-A-1",
+                    "name": "cane sugar",
+                    "reusable_container": false,
+                    "ratio": 0.08450704225352113,
+                    "storage_method": "room",
+                    "shelf_life_days": 365,
+                    "pulse_setting": 150,
+                    "barcode": "",
+                    "bib_size_l": 1.5
+                },
+                "jasmine tea-005": {
+                    "sku": "88-0500-JAGT-TEA-005-C-1",
+                    "name": "jasmine tea",
+                    "reusable_container": false,
+                    "ratio": 0.11830985915492957,
+                    "storage_method": "fridge",
+                    "alcohol_by_volume": 0,
+                    "shelf_life_days": 35,
+                    "pulse_setting": 800,
+                    "barcode": "",
+                    "bib_size_l": 5
+                }
+            }
+        },
+        "available_sugar_level": [
+            [
+                0,
+                "noSugar",
+                "Y"
+            ],
+            [
+                50,
+                "half",
+                "Y"
+            ],
+            [
+                100,
+                "regular",
+                "Y"
+            ],
+            [
+                150,
+                "extra",
+                "Y"
+            ]
+        ],
+        "customize_level": [
+            {
+                "level": 0,
+                "name": "noSugar"
+            },
+            {
+                "level": 50,
+                "name": "half"
+            },
+            {
+                "level": 100,
+                "name": "regular"
+            },
+            {
+                "level": 150,
+                "name": "extra"
+            }
+        ],
+        "sku": "98-Gtea-2",
+        "drink_type": "Green Tea",
+        "drink_type_array": [
+            "Green Tea"
+        ],
+        "drink_class": "Select",
+        "abv": 0,
+        "process_order": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            10,
+            11
+        ],
+        "blender": "2-2-5",
+        "default_size": 355,
+        "available_size": [
+            355
+        ],
+        "available_cup_size": [
+            {
+                "size": 355,
+                "name": "355",
+                "MSRP": 3.5,
+                "invoice_price": 1.5,
+                "nutrition_fact": {
+                    "calories": {
+                        "value": 6.986399999999999,
+                        "daily": null
+                    },
+                    "total_fat_g": {
+                        "value": 0.3408,
+                        "daily": 0.004369230769230769
+                    },
+                    "sarutrated_fat_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "trans_fat_g": {
+                        "value": 0,
+                        "daily": null
+                    },
+                    "cholesterol_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "sodium_mg": {
+                        "value": 13.632,
+                        "daily": 0.00592695652173913
+                    },
+                    "total_carbohydrate_g": {
+                        "value": 0.5538,
+                        "daily": 0.0020138181818181817
+                    },
+                    "dietary_fiber_g": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "total_sugars_g": {
+                        "value": 0.3408,
+                        "daily": null
+                    },
+                    "includes_g_added_sugars": {
+                        "value": 0.3408,
+                        "daily": 0.006816
+                    },
+                    "protein_g": {
+                        "value": 0.426,
+                        "daily": null
+                    },
+                    "vitamin_d_mcg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "calcium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "iron_mg": {
+                        "value": 0,
+                        "daily": 0
+                    },
+                    "potassium_mg": {
+                        "value": 0,
+                        "daily": 0
+                    }
+                }
+            }
+        ],
+        "image_url": "https://botrista-image.s3.amazonaws.com/drinks/98-Gtea-2.png",
+        "photo": "drinks/98-Gtea-2.png",
+        "ingredient_list": [
+            [
+                "85-9999-WATR-FIL-010-C-1"
+            ],
+            [
+                "88-0150-CANE-SWE-002-A-1",
+                "88-0300-CANE-SWE-002-A-1"
+            ],
+            [
+                "88-0500-JAGT-TEA-005-C-1",
+                "89-0000-JAGT-TEA-005-A-1"
+            ]
+        ],
+        "garnish": [],
+        "default_level": 100
+    }
+}

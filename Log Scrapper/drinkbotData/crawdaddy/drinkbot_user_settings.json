@@ -1,0 +1,30 @@
+{
+    "favorite_drink": [],
+    "flow_unit": "oz",
+    "language": "English",
+    "operating_hours": [
+        "03:00",
+        "22:00"
+    ],
+    "pump_to_ingredient": {
+        "pump_01": "water-010",
+        "pump_02": "jasmine tea-005",
+        "pump_03": "lemon-026",
+        "pump_04": "passion fruit-026",
+        "pump_05": "strawberry-026",
+        "pump_06": "yogurt-026",
+        "pump_07": "mango-026",
+        "pump_08": "mint-014",
+        "pump_09": "lychee syrup-026",
+        "pump_10": "hibiscus-026",
+        "pump_11": "cane sugar-002",
+        "pump_12": "sparkling water-010"
+    },
+    "serving_mode": "manual",
+    "serving_size": [
+        "355",
+        "473"
+    ],
+    "timezone": "America/Los_Angeles",
+    "volume": "oz"
+}
