@@ -2,6 +2,7 @@ const fs = require('fs');
 const readline = require('readline');
 const path = require('path');
 
+const headers = 'sku,name,version,description,item_type,super_owner,creator,drink_type,drink_class,photo,country,process_order,blender,unit_cost_per_ml,invoice_price,status,fixed_level,default_volume,ingredient';
 
 /**
  *
@@ -34,15 +35,7 @@ exports.parseFile = (name, processer, writer) => {
       readInterface.close();
       readInterface.removeAllListeners();
       writer(data, name);
-      // fs.writeFile(path.resolve(__dirname, `../ output / ${name} - output.json`),
-      //   JSON.stringify({ data }, null, 2),
-      //   (err) => {
-      //     if (err) {
-      //       console.error(err);
-      //     }
-      //     console.log('done');
-      //     // writeStream.end();
-      //   });
+
     });
 
 }
