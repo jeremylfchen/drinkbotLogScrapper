@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require('fs/promises');
 const path = require('path');
 
 /**
@@ -17,6 +17,21 @@ exports.extractIngredient = (rawData, store) => {
 }
 
 
-exports.createIngredientCSV = (data, fileName) => {
-  const flavors = Object.keys(data);
+exports.createIngredientCSV = async (data, fileName) => {
+  const flavors = Object.keys(data).sort((a, b) => a > b).join(',');
+  try {
+    const writer = await fs.createWriteStream(path.resolve(__dirname, `../output/${filename}.csv`));
+    console.log('writer created!')
+  } catch (err) {
+    console.error('error found ', err.message);
+  }
+
+  try {
+    await writer.write(flavors);
+    writer.on('close', () => {
+      console.log('finished!');
+      writer.end();
+    })
+  }
+
 }

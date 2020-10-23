@@ -21,7 +21,7 @@ exports.parseFile = (name, processer, writer) => {
 
   const writer = fs.createWriteStream(path.resolve(__dirname, `../output/${name}`));
 
-  var data = [];
+  var data = {};
   const readInterface = readline.createInterface({
     input: fs.createReadStream(path.resolve(__dirname, `../data/${fileName}`)),
     // output: process.stdout,
@@ -29,7 +29,7 @@ exports.parseFile = (name, processer, writer) => {
   });
 
   readInterface.on('line', (line) => {
-    processer(line);
+    processer(line, data);
   })
     .on('close', () => {
       readInterface.close();
