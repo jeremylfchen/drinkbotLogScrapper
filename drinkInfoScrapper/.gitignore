@@ -1,5 +1,5 @@
 node_modules
-data
-output
+data/*
+output/*
 !output/.gitkeep
 !data/.gitkeep
