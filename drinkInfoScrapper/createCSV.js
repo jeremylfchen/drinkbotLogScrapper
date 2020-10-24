@@ -1,4 +1,4 @@
-const { parseFile } = require('./functions/scrapDrinks.js');
-const { extractIngredient, createIngredientCSV } = require('./functions/helpers.js');
+const { generateCSV } = require('./functions/scrapDrinks.js');
+const { generateDrinkObj, generateDrinkCSV } = require('./functions/helpers.js');
 
-parseFile('ingredients', extractIngredient, createIngredientCSV);
+generateCSV('ingredients', generateDrinkObj, generateDrinkCSV);

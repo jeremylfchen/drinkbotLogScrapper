@@ -3,3 +3,5 @@ data/*
 output/*
 !output/.gitkeep
 !data/.gitkeep
+tests/testOutput/*
+!tests/testOutput/.gitkeep

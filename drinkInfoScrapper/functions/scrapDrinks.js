@@ -9,7 +9,7 @@ const Promise = require('bluebird');
  * @param {*} processer | function to extract data from csv
  * @param {*} writer | writer function to make new csv
  */
-exports.parseFile = async (name, processor, writer) => {
+exports.generateIngredients = async (name, processor, writer) => {
   var files = [];
   var data = {};
   try {
